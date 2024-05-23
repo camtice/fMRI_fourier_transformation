@@ -37,6 +37,11 @@ Future work could explore the use of additional frequencies (e.g., 8, 12, or 40)
 - R programming language
 - Required libraries: `R.matlab`
 
+### Data File
+
+Due to size limitations, the `ts_adhd_dc.mat` file is not included directly in this repository. You can download the file from the following link: [Download ts_adhd_dc.mat](https://auburn.box.com/s/dhxvtbvqo1zphmfur71gxv6ad30nd1o7)
+
+
 ### Running the Script
 
 1. Clone the repository:
