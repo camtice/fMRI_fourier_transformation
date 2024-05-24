@@ -1,6 +1,6 @@
 # Tice ADHD Fourier Transformation
 
-This repository contains the R script and related files for the Tice ADHD Fourier Transformation project. This project aims to preprocess fMRI data using Fourier transformations to retain a better representaion compared to traditional functional connectivty analysis. The <clean_fMRI_fourier_transform.R> contains the code necessary to conduct the fourier transform from the raw data. The <clean_adhd_fourier_supervised.R> file contains code for some prelimanary analysis of the transformed data. 
+This repository contains the R script and related files for the Tice ADHD Fourier Transformation project. This project aims to preprocess fMRI data using Fourier transformations to retain a better representaion compared to traditional functional connectivty analysis. The `clean_fMRI_fourier_transform.R` contains the code necessary to conduct the fourier transform from the raw data. The `clean_adhd_fourier_supervised.R` file contains code for some prelimanary analysis of the transformed data. 
 
 The following information centers on the fourier transform of the data rather than the subsequent analysis.
  
